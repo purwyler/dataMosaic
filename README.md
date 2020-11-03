@@ -27,4 +27,4 @@ Join our Slack channel [here](https://dayonehealthhack.slack.com/archives/C01CP9
 * R
 
 ## Inspiration
-Project inspired by[DAYONE HealthHack](https://2020.healthhack.solutions/) based on the inputs from Patient Champions
+Project inspired by [DAYONE HealthHack](https://2020.healthhack.solutions/) based on the inputs from Patient Champions
