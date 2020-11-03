@@ -1,5 +1,5 @@
 # dataMosaic
-DayOne Health Hack Basel, Switzerland. Final Sprint 6. November - 8. November 2020 #dayonebasel
+*DayOne Health Hack Basel, Switzerland. Final Sprint 6. November - 8. November 2020* #dayonebasel
 
 Link to the challenge: https://2020.healthhack.solutions/project/67
 
@@ -30,3 +30,6 @@ maxim_popov
 
 
 Join our Slack channel https://dayonehealthhack.slack.com/archives/C01CP943HV5
+
+## Inspiration
+Project inspired by #dayonebasel based on the inputs from Patient Champions
