@@ -12,8 +12,8 @@ Link to the project: https://2020.healthhack.solutions/project/73
 [@kamalakannan_sudhakar](https://2020.healthhack.solutions/user/kamalakannan_sudhakar)
 [@prabitha_urwyler](https://2020.healthhack.solutions/user/prabitha_urwyler)
 [@maxim_popov](https://2020.healthhack.solutions/user/maxim_popov)
+####### Slack - Communication during the Hack
 Join our Slack channel [@here](https://dayonehealthhack.slack.com/archives/C01CP943HV5)
-
 
 ## Summary
 
