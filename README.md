@@ -5,6 +5,8 @@ Link to the challenge: https://2020.healthhack.solutions/project/67
 
 Link to the project: https://2020.healthhack.solutions/project/73
 
+
+
 Participants (please check the project link for an update):
 
 Aletta https://2020.healthhack.solutions/user/Aletta
@@ -24,5 +26,7 @@ kamalakannan_sudhakar https://2020.healthhack.solutions/user/kamalakannan_sudhak
 prabitha_urwyler 🧬
 
 maxim_popov
+
+
 
 Join our Slack channel https://dayonehealthhack.slack.com/archives/C01CP943HV5
