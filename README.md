@@ -1,7 +1,7 @@
 # dataMosaic
 *DayOne Health Hack Basel, Switzerland. Final Sprint 6. November - 8. November 2020* #dayonebasel
-Link to the challenge: https://2020.healthhack.solutions/project/67
-Link to the project: https://2020.healthhack.solutions/project/73
+- Link to the challenge: https://2020.healthhack.solutions/project/67
+- Link to the project: https://2020.healthhack.solutions/project/73
 ##### Participants (please check the project link for an update):
 [Aletta](https://2020.healthhack.solutions/user/Aletta)
 [Alex_Kononov](https://2020.healthhack.solutions/user/Alex_Kononov)
