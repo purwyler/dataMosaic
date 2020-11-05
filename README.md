@@ -1,5 +1,6 @@
 # dataMosaic
 *DayOne Health Hack Basel, Switzerland. Final Sprint 6. November - 8. November 2020* #dayonebasel
+
 - Health Hack challenge: [Merlin Mosaic](https://2020.healthhack.solutions/project/67)
 - Health Hack project: [DataMosaic](https://2020.healthhack.solutions/project/73)
 ##### Participants (please check the project link for an update):
