@@ -16,7 +16,7 @@
 Join our Slack channel [here](https://dayonehealthhack.slack.com/archives/C01CP943HV5)
 
 ## Summary
-Visualiation of data integrated from physiological, diet and lifestyle measurements to help Type 1 Diabetes patients understand and manage thier day-to-day activities, diet and insulin dosage.
+Visualisation of data integrated from physiological, diet and lifestyle measurements to help Type 1 Diabetes patients understand and manage thier day-to-day activities, diet and insulin dosage.
 
 
 ## The Challenge
