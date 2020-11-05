@@ -27,6 +27,8 @@ Visualiation of data integrated from physiological, diet and lifestyle measureme
 
 ## Technologies
 * R
+* Data Visualization
+* Mobile Device
 
 ## Inspiration
 Project inspired by [DAYONE HealthHack](https://2020.healthhack.solutions/) based on the inputs from Patient Champions
