@@ -12,7 +12,7 @@
 [kamalakannan_sudhakar](https://2020.healthhack.solutions/user/kamalakannan_sudhakar)
 [prabitha_urwyler](https://2020.healthhack.solutions/user/prabitha_urwyler)
 [maxim_popov](https://2020.healthhack.solutions/user/maxim_popov)
-[victor esenwa](https://2020.healthhack.solutions/user/victor_esenwa)
+[victor_esenwa](https://2020.healthhack.solutions/user/victor_esenwa)
 ##### Slack - Communication during the Hack
 Join our Slack channel [here](https://dayonehealthhack.slack.com/archives/C01CP943HV5)
 
